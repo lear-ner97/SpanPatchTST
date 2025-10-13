@@ -24,7 +24,7 @@ The remaining hyperparameters whose values are changed throughout the expriments
 *pt_epoch: the number of pretraining epochs.<br>
 *ft_epoch: the number of finetuning epochs. <br>
 *pred_len: the prediction length. <br>
-*dn: the dataset. Four datasets are used in our paper 'etth1', 'etth2', 'ettm1', and 'ettm2'. For more information about these datasets, refer to Informer paper Github.<br>
+*dn: the dataset. Four datasets are used in our paper 'etth1', 'etth2', 'ettm1', and 'ettm2'. For more information about these datasets, you can refer to the [Informer paper's Github repository](https://github.com/zhouhaoyi/Informer2020).<br>
 
 ## Training and expected result
 Once you set the hyperparameters' values, you run ssl.py. You will see the evolution of the pretraining loss (train vs validation), finetuning loss (train vs validation). Finally, you will get the following:<br>
