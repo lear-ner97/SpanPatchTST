@@ -37,4 +37,4 @@ Once you set the hyperparameters' values, you run ssl.py. You will see the evolu
 Through our work, we tried to improve the results of the paper [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730). We truly appreciate the authors' [Github repository](https://github.com/yuqinie98/PatchTST?tab=readme-ov-file) for the valuable code base. <br>
 
 ## 📬 Contact
-If you have questions or encounter issues, please [open an issue](https://github.com/lear-ner97/SpanPatchTST/issues) or contact us at **sami.benbrahim@mail.concordia.ca**.
+If you have questions or encounter issues, please [open an issue](https://github.com/lear-ner97/SpanPatchTST/issues) or contact us at **sami DOT benbrahim AT mail DOT concordia DOT ca**.
