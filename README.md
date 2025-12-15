@@ -1,7 +1,7 @@
 # SpanPatchTST
-This is the official implementation of our submitted paper : "SpanPatchTST:  SpanPatchTST: A Self-Supervised Learning Model for Short-term  and Mid-term Energy Load Forecasting" 
+This is the official implementation of our paper : "SpanPatchTST:  SpanPatchTST: A Self-Supervised Learning Model for Short-term  and Mid-term Energy Load Forecasting" 
 
-## step-by-step guidelines to produce results
+## step-by-step guidelines to reproduce the results
 
 ## install dependencies
 put all the github repo in a single folder and install the packages listed in the main file ssl.py, lines 18-45
@@ -37,4 +37,4 @@ Once you set the hyperparameters' values, you run ssl.py. You will see the evolu
 Through our work, we tried to improve the results of the paper [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730). We truly appreciate the authors' [Github repository](https://github.com/yuqinie98/PatchTST?tab=readme-ov-file) for the valuable code base. <br>
 
 ## 📬 Contact
-If you have questions or encounter issues, please [open an issue](https://github.com/lear-ner97/Transformer-LSTM-DAF/issues) or contact us at **sami.benbrahim@mail.concordia.ca**.
+If you have questions or encounter issues, please [open an issue](https://github.com/lear-ner97/SpanPatchTST/issues) or contact us at **sami.benbrahim@mail.concordia.ca**.
